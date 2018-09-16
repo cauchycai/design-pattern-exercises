@@ -1,0 +1,6 @@
+#    -*- mode: org -*-
+#+TITLE:     Design Pattern Practices (in Java)
+#+AUTHOR:		Cauchy Cai
+#+EMAIL:		cauchy.cai@gmail.com
+#+STARTUP:      hidestars
+#+DATE:     2018-09-16 Sun
